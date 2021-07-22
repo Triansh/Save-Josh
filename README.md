@@ -3,6 +3,9 @@
 ## Overview 
 Save Josh is a recue game made using Unity Engine and its post processing effects. In this game, Josh who has been trapped in a haunted house needs to be rescued from ghosts and gargoyles. Help me reach the exit.
 
+https://user-images.githubusercontent.com/56212901/126608704-114a24c8-08ea-418b-8712-8ad1e2cc8566.mp4
+
+
 ## Playing the game
 * The game can be played in the web [here](https://play.unity.com/mg/other/save-josh).
 
